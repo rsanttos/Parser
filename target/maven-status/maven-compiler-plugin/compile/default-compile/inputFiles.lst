@@ -1,0 +1,17 @@
+/home/ramonsantos/dev/avulso/workspace/Parser/src/main/java/com/ef/Parser/service/LogFileService.java
+/home/ramonsantos/dev/avulso/workspace/Parser/src/main/java/com/ef/Parser/utils/DateUtil.java
+/home/ramonsantos/dev/avulso/workspace/Parser/src/main/java/com/ef/Parser/service/BlockedIPService.java
+/home/ramonsantos/dev/avulso/workspace/Parser/src/main/java/com/ef/Parser/utils/HibernateUtil.java
+/home/ramonsantos/dev/avulso/workspace/Parser/src/main/java/com/ef/Parser/domain/BlockedIP.java
+/home/ramonsantos/dev/avulso/workspace/Parser/src/main/java/com/ef/Parser/dao/GenericDAO.java
+/home/ramonsantos/dev/avulso/workspace/Parser/src/main/java/com/ef/Parser/enums/DurationEnum.java
+/home/ramonsantos/dev/avulso/workspace/Parser/src/main/java/com/ef/Parser/enums/DateFormatEnum.java
+/home/ramonsantos/dev/avulso/workspace/Parser/src/main/java/com/ef/Parser/factory/JustificationFactory.java
+/home/ramonsantos/dev/avulso/workspace/Parser/src/main/java/com/ef/Parser/dao/LogDAO.java
+/home/ramonsantos/dev/avulso/workspace/Parser/src/main/java/com/ef/Parser/Main.java
+/home/ramonsantos/dev/avulso/workspace/Parser/src/main/java/com/ef/Parser/service/LogService.java
+/home/ramonsantos/dev/avulso/workspace/Parser/src/main/java/com/ef/Parser/enums/ParametersEnum.java
+/home/ramonsantos/dev/avulso/workspace/Parser/src/main/java/com/ef/Parser/domain/Log.java
+/home/ramonsantos/dev/avulso/workspace/Parser/src/main/java/com/ef/Parser/utils/ParametersUtil.java
+/home/ramonsantos/dev/avulso/workspace/Parser/src/main/java/com/ef/Parser/validate/ValidateParameters.java
+/home/ramonsantos/dev/avulso/workspace/Parser/src/main/java/com/ef/Parser/dao/BlockedIPDAO.java
